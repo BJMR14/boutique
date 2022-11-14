@@ -139,7 +139,7 @@
 				<nav class="limiter-menu-desktop container">
 					<!-- Logo desktop -->		
 					<a href="<?= base_url(); ?>" class="logo">
-						<img src="<?= media() ?>/tienda/images/neww.png" alt="Tienda Virtual">
+						<img src="<?= media() ?>/tienda/images/butique.png" alt="Tienda Virtual">
 					</a>
 					
 
